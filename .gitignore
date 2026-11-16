@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsm
+*.xlsx
+sources.json
+ma_employers.json
+exclusions.json
+seen_jobs.json
+state.json
+run.lock
+runs/
+*.bak*
+.env
+*.log
