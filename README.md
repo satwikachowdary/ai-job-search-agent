@@ -105,11 +105,14 @@ This repo intentionally ships with no candidate data. To use it:
   own write (checksum of unrelated cells, VBA project unchanged) before
   replacing the live file.
 
-How this was built
+## How this was built
 
-I designed the workflow, the eligibility rules, the scoring rubric and the safety checks, and I review every output. Claude wrote the code under my direction, and I tested and corrected it
+I designed the workflow, the eligibility rules, the scoring rubric and the safety checks, and I review every output. Claude wrote the code under my direction, and I tested and corrected it.
+
 ## License
 
-Author
+MIT, do whatever you like with it.
 
-Satwika Chowdary Poluru. LinkedIn | GitHub
+## Author
+
+Satwika Chowdary Poluru. [LinkedIn](https://www.linkedin.com/in/satwika-poluru/) | [GitHub](https://github.com/satwikachowdary)
