@@ -6,6 +6,13 @@ maintains a single Excel workbook as the system of record — with pending and
 applied applications kept on separate sheets that move automatically as you
 update application status.
 
+## Quick start
+```bash
+pip install -r requirements.txt
+cp automation/sources.example.json automation/sources.json
+python automation/tracker_update.py --dry-run
+```
+
 This repo holds the **engine** — the scanning, scoring, dedup, and
 spreadsheet-maintenance code. It does not include any personal data: no
 resume, no candidate profile, no job-search history, and no live tracker
