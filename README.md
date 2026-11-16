@@ -1,4 +1,4 @@
-# ai-job-search-agent
+# AI-Job-Search-Agent
 
 A personal job-search automation system that scans employer applicant-tracking
 systems (ATS) directly, scores postings against a candidate profile, and
